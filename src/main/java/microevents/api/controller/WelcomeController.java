@@ -1,4 +1,4 @@
-package microevents.controller;
+package microevents.api.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

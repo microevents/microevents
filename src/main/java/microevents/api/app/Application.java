@@ -1,4 +1,4 @@
-package microevents.app;
+package microevents.api.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

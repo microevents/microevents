@@ -1,4 +1,4 @@
-package microevents.controller;
+package microevents.api.controller;
 
 public class Status {
 

@@ -1,4 +1,4 @@
-package microevents.controller;
+package microevents.api.controller;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
