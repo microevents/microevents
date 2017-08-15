@@ -1,2 +1,2 @@
 # microevents-api
-MicroEvents API Application
+Microevents API Application
